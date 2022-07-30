@@ -5,6 +5,8 @@
 <h2> Hope you are enjoying it  </h2>
 <h2> Its a great day!  </h2>
 <h2> I finally made it!  </h2>
-<h2> I'm adding another line to this script </h2>
-<h2> The additional script i added finally worked!!!!!!!!!!!!!!!! </h2>
- <h2> WONDERS SHALL NEVER END </h2>
+<h2> This is an exciting class </h2>
+<h2> It's a wonderful world  </h2>
+ 
+ 
+ 
